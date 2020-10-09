@@ -1,0 +1,13 @@
+D:\Dojo_Assignments\C#\OOP\dll\bin\Debug\netcoreapp3.1\dll.exe
+D:\Dojo_Assignments\C#\OOP\dll\bin\Debug\netcoreapp3.1\dll.deps.json
+D:\Dojo_Assignments\C#\OOP\dll\bin\Debug\netcoreapp3.1\dll.runtimeconfig.json
+D:\Dojo_Assignments\C#\OOP\dll\bin\Debug\netcoreapp3.1\dll.runtimeconfig.dev.json
+D:\Dojo_Assignments\C#\OOP\dll\bin\Debug\netcoreapp3.1\dll.dll
+D:\Dojo_Assignments\C#\OOP\dll\bin\Debug\netcoreapp3.1\dll.pdb
+D:\Dojo_Assignments\C#\OOP\dll\obj\Debug\netcoreapp3.1\dll.csprojAssemblyReference.cache
+D:\Dojo_Assignments\C#\OOP\dll\obj\Debug\netcoreapp3.1\dll.AssemblyInfoInputs.cache
+D:\Dojo_Assignments\C#\OOP\dll\obj\Debug\netcoreapp3.1\dll.AssemblyInfo.cs
+D:\Dojo_Assignments\C#\OOP\dll\obj\Debug\netcoreapp3.1\dll.csproj.CoreCompileInputs.cache
+D:\Dojo_Assignments\C#\OOP\dll\obj\Debug\netcoreapp3.1\dll.dll
+D:\Dojo_Assignments\C#\OOP\dll\obj\Debug\netcoreapp3.1\dll.pdb
+D:\Dojo_Assignments\C#\OOP\dll\obj\Debug\netcoreapp3.1\dll.genruntimeconfig.cache
